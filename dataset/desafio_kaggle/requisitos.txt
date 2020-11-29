@@ -1,0 +1,67 @@
+﻿Quais os 10 países com os maiores PIBs e envolvimento de data science e machine learning? - Fonte de PIB
+Quais os 10 países com os menores PIBs e envolvimento de data science e machine learning? - Fonte de PIB
+Qual o IDH dos países que mais estão envolvidos em data science e machine learning? - Fonte de IDH
+Qual a participação de gêneros em data science e machine learning?
+Qual o percentual de não técnico em data science e machine learning?
+Qual a proporção de profissionais de data science e machine learning em relação a população?
+Qual a proporcionalidade de data science e machine learning entre os hemisférios?
+Quanto mais estudos mais empregabilidade?
+Quanto mais estudos maior salario?
+Quais as linguagens mais usadas?
+Quais as linguagens mais usadas por generos?
+Quais as linguagens mais usadas por industrias?
+Quais as ferramentas de Cloud mais usadas?
+Quais as ferramentas de Cloud por generos?
+Quais as ferramentas de Cloud por industrias?
+Quais as IDEs mais usadas?
+Quais os componentes mais usados?
+Agrupamento:
+	Em média, em qual década iniciou uma tendência de uso em data science e machine learning?
+	Qual a tendência de crescimento de BIG DATA neste período pelo Google Trends?
+	Qual a tendência de crescimento de data science neste período pelo Google Trends?
+	Qual a tendência de crescimento de machine learning neste período pelo Google Trends?
+	Qual a tendência de crescimento de deep learning neste período pelo Google Trends?
+Qual o percentual de data science e machine learning no mercado de TI nos 10 maiores países?
+Qual a média de idade dos profissionais de data science e machine learning em relação a média de idade da TI dos 10 maiores países?
+Qual a idade média por gênero em data science e machine learning?
+Agrupamento:
+	Qual a média salarial por gênero geral e nos 10 maiores países?
+	Qual o gênero que tem mais estudos em data science e machine learning geral e nos 10 maiores países?
+	Qual o gênero tem mais Mestrado?
+	Qual o gênero tem mais Phd?
+	Qual o gênero tem mais Graduação?
+	Qual a média de horas trabalhadas por gênero em data science e machine learning geral e nos 10 maiores países?
+	Desses países quais têm os melhores IDH.
+Quais empresas tem mais profissionais em data science e machine learning?
+As empresas tem mais profissionais acadêmicos, como Phd e mestres ou profissionais de cursos online?
+Qual a média salarial de profissionais de data science e machine learning em relação aos profissionais não data science e machine learning?
+Quais os algorítmos mais usados?
+Qual tendência em machine learning e deep learning?
+Qual percentual de crescimento de data science e machine learning no Kaggle nos últimos anos?
+Qual o percentual de uso de machine learning ou deep learning nos últimos anos pelo kaggle?
+Qual o percentual de crescimento de generos na área de data science pelo Kaggle nos ultimos anos?
+Qual empresa de cloud que mais cresceu nos ultimos anos pelo Kaggle?
+Qual a linguagem que mais cresceu nos ultimos anos pelo Kaggle?
+Qual o crescimento de jovens e mais velhos na área de data science pelo Kaggle?
+
+
+=================================================//======================================================
+Direções futuras a serem consideradas:
+
+Divida a população em subgrupos interessantes e identifique ideias interessantes.
+
+Os alunos têm preferências diferentes em relação aos profissionais?
+Os clientes do GCP têm preferências diferentes em comparação aos clientes da AWS?
+Quais plataformas de computação em nuvem tiveram o maior crescimento nos últimos anos?
+Os salários variam de acordo com os níveis de experiência? Que características podem predizer um salário muito alto?
+
+=================================================//======================================================
+
+2019
+https://www.kaggle.com/c/kaggle-survey-2019/data
+2018
+https://www.kaggle.com/kaggle/kaggle-survey-2018
+2017
+https://www.kaggle.com/kaggle/kaggle-survey-2017
+
+
